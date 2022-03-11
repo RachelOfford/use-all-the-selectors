@@ -69,3 +69,11 @@ ol li:last-child {
 .types li:nth-child(6) {
   background-color: #d04b16;
 }
+
+.types li:nth-child(9) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(12) {
+  background-color: #d04b16;
+}
