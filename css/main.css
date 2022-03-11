@@ -30,11 +30,11 @@ h1 {
   color: #93a1a1;
 }
 
-.wrapper .dfn {
+dfn .wrapper {
   background-color: #b58900;
 }
 
-strong .dfn {
+dfn strong {
   color: #fff;
 }
 
@@ -54,14 +54,14 @@ ol li {
   color: #2aa198;
 }
 
-li .types {
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-li .types {
+.types li:nth-child(even){
   background-color: #586e75;
 }
 
-li .types {
+.types li:nth-child() {
   background-color: #d04b16;
 }
